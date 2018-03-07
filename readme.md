@@ -8,6 +8,7 @@
 * [Panel Image Gallery](https://jasminejeane.github.io/JavaScript30/05-Flex-Panel-Gallery/index.html)
 * [Type Ahead](https://jasminejeane.github.io/JavaScript30/06-Type-Ahead/index.html)
 * [HTML5 Canvas](https://jasminejeane.github.io/JavaScript30/08-HTML5-Canvas/index-START.html)
+* [Wack-A-Mole](https://jasminejeane.github.io/JavaScript30/30-Whack-A-Mole/index-START.html)
 
 
 
